@@ -7,10 +7,11 @@ namespace pizzaaa.Models
 {
     public class other_details
     {
-        public string branches;
-        public string worktime;
-        public string todaysoffer;
+        public string Branches;
+        public string WorkTime;
+        public string TodaysOffer;
 
+     
 
 
     }

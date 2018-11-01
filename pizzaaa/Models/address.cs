@@ -7,11 +7,11 @@ namespace pizzaaa.Models
 {
     public class address
     {
-        public string country;
-        public string city;
-        public string street;
-        public string floor;
-        public string apartmentnumber;
+        public string Country;
+        public string City;
+        public string Street;
+        public string Floor;
+        public string ApartmentNumber;
 
 
     }
