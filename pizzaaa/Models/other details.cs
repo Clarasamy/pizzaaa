@@ -11,6 +11,7 @@ namespace pizzaaa.Models
         public string worktime;
         public string todaysoffer;
 
+        public string NewAttribute;
 
 
     }
