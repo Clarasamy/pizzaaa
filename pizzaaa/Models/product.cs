@@ -7,12 +7,12 @@ namespace pizzaaa.Models
 {
     public class product
     {
-        public string menu;
-        public string italianpizza;
-        public string egyptionpizza;
-        public string indianpizza;
-        public string kidesmeal;
-        public string desserts;
+        public string Menu;
+        public string ItalianPizza;
+        public string EgyptionPizza;
+        public string IndianPizza;
+        public string KidesMeal;
+        public string Desserts;
 
     }
 }
