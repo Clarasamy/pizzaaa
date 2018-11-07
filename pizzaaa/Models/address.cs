@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace pizzaaa.Models
 {
-    public class address
+    public class Address
     {
         public string Country;
         public string City;
