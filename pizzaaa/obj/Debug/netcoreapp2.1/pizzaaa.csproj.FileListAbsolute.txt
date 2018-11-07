@@ -30,4 +30,7 @@ C:\Users\Clara Samy\Source\Repos\pizzaaa\pizzaaa\obj\Debug\netcoreapp2.1\pizzaaa
 C:\Users\Clara Samy\Source\Repos\pizzaaa\pizzaaa\obj\Debug\netcoreapp2.1\pizzaaa.dll
 C:\Users\Clara Samy\Source\Repos\pizzaaa\pizzaaa\obj\Debug\netcoreapp2.1\pizzaaa.pdb
 C:\Users\Clara Samy\Source\Repos\pizzaaa\pizzaaa\obj\Debug\netcoreapp2.1\pizzaaa.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Users\Clara Samy\Source\Repos\pizzaaa\pizzaaa\obj\Debug\netcoreapp2.1\Razor\Views\Product.g.cshtml.cs
+=======
+>>>>>>> Clara
